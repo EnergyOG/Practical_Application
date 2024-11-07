@@ -1,0 +1,1 @@
+mongodb import -- db mongodb-exercises --collection courses --drop --file extension

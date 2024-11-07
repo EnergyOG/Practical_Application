@@ -1,0 +1,26 @@
+{
+    "person1" :[
+        {"id":1 , "name":"Matthew", "region":"Accra", "light": true},
+        {"id":2 , "name":"Mark", "region":"Kumasi", "light": false},
+        {"id":3 , "name":"Luke", "region":"Tamale", "light": false},
+        {"id":4 , "name":"John", "region":"Volta", "light": true},
+        {"id":5 , "name":"Peter", "region":"Western", "light": false},
+        {"id":6 , "name":"Timothy", "region":"Eastern", "light": true}
+    ],
+    "person2" : [
+        {"id":1 , "name":"Matthew2", "region":"Accra", "light": true},
+        {"id":2 , "name":"Mark2", "region":"Kumasi", "light": false},
+        {"id":3 , "name":"Luke2", "region":"Tamale", "light": false},
+        {"id":4 , "name":"John2", "region":"Volta", "light": true},
+        {"id":5 , "name":"Peter2", "region":"Western", "light": false},
+        {"id":6 , "name":"Timothy2", "region":"Eastern", "light": true}
+    ],
+    "person3" :[
+        {"id":1 , "name":"Matthew3", "region":"Accra", "light": true},
+        {"id":2 , "name":"Mark3", "region":"Kumasi", "light": false},
+        {"id":3 , "name":"Luke3", "region":"Tamale", "light": false},
+        {"id":4 , "name":"John3", "region":"Volta", "light": true},
+        {"id":5 , "name":"Peter3", "region":"Western", "light": false},
+        {"id":6 , "name":"Timothy3", "region":"Eastern", "light": true}
+    ]
+} 
